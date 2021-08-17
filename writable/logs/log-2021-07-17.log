@@ -1,0 +1,12 @@
+CRITICAL - 2021-07-17 07:26:46 --> You do not have sufficient permissions to access that page.
+#0 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\Filters\Filters.php(181): Myth\Auth\Filters\RoleFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), Array)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(407): CodeIgniter\Filters\Filters->run('stok/edit/4', 'before')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-07-17 07:26:51 --> You do not have sufficient permissions to access that page.
+#0 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\Filters\Filters.php(181): Myth\Auth\Filters\RoleFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), Array)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(407): CodeIgniter\Filters\Filters->run('stok', 'before')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

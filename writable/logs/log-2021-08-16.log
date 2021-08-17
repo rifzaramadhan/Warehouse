@@ -1,0 +1,333 @@
+CRITICAL - 2021-08-16 08:06:04 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Views\stokView\edit.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 38)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\Common.php(1271): CodeIgniter\View\View->render('stokView/edit', Array, true)
+#4 C:\xampp\htdocs\wms\app\Controllers\Stok.php(78): view('stokView/edit', Array)
+#5 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Stok->edit('dist', 'img', 'user1-128x128.j...')
+#6 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+#7 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-08-16 08:06:04 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Views\stokView\edit.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 38)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\Common.php(1271): CodeIgniter\View\View->render('stokView/edit', Array, true)
+#4 C:\xampp\htdocs\wms\app\Controllers\Stok.php(78): view('stokView/edit', Array)
+#5 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Stok->edit('dist', 'img', 'user8-128x128.j...')
+#6 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+#7 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-08-16 08:06:04 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Views\stokView\edit.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 38)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\Common.php(1271): CodeIgniter\View\View->render('stokView/edit', Array, true)
+#4 C:\xampp\htdocs\wms\app\Controllers\Stok.php(78): view('stokView/edit', Array)
+#5 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Stok->edit('dist', 'img', 'user3-128x128.j...')
+#6 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+#7 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-08-16 08:12:29 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user1-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:12:29 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user8-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:12:29 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user3-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:12:49 --> Too few arguments to function App\Controllers\Masuk::edit(), 0 passed in C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php on line 928 and exactly 1 expected
+#0 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit()
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-08-16 08:19:12 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user1-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:19:12 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user3-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:19:13 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user8-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:19:18 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user1-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:19:18 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user8-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:19:18 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user3-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:19:26 --> Too few arguments to function App\Controllers\Masuk::edit(), 0 passed in C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php on line 928 and exactly 1 expected
+#0 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit()
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-08-16 08:20:51 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user3-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:20:51 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user1-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:20:51 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user8-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:21:31 --> Too few arguments to function App\Controllers\Masuk::edit(), 0 passed in C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php on line 928 and exactly 1 expected
+#0 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit()
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-08-16 08:21:42 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user1-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:21:42 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user3-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:21:42 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user8-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:21:48 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user1-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:21:48 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user8-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:21:48 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user3-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:21:53 --> Too few arguments to function App\Controllers\Masuk::edit(), 0 passed in C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php on line 928 and exactly 1 expected
+#0 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit()
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-08-16 08:26:50 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user1-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:26:50 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user8-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:26:50 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user3-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:26:52 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit()
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:27:12 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user1-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:27:12 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user8-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:27:12 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user3-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:27:52 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit()
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:29:22 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user1-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:29:22 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user3-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:29:22 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user8-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:29:25 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit()
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:29:26 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user1-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:29:26 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user8-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:29:26 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Controllers\Masuk.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Masuk->edit('dist', 'img', 'user3-128x128.j...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Masuk))
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-08-16 08:42:33 --> You do not have sufficient permissions to access that page.
+#0 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\Filters\Filters.php(181): Myth\Auth\Filters\RoleFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), Array)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(407): CodeIgniter\Filters\Filters->run('stok', 'before')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-08-16 08:43:03 --> You do not have sufficient permissions to access that page.
+#0 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\Filters\Filters.php(181): Myth\Auth\Filters\RoleFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), Array)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(407): CodeIgniter\Filters\Filters->run('stok', 'before')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-08-16 08:55:44 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Views\stokView\edit.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 38)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\Common.php(1271): CodeIgniter\View\View->render('stokView/edit', Array, true)
+#4 C:\xampp\htdocs\wms\app\Controllers\Stok.php(78): view('stokView/edit', Array)
+#5 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Stok->edit('dist', 'img', 'user8-128x128.j...')
+#6 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+#7 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-08-16 08:55:44 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Views\stokView\edit.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 38)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\Common.php(1271): CodeIgniter\View\View->render('stokView/edit', Array, true)
+#4 C:\xampp\htdocs\wms\app\Controllers\Stok.php(78): view('stokView/edit', Array)
+#5 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Stok->edit('dist', 'img', 'user1-128x128.j...')
+#6 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+#7 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-08-16 08:55:44 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\wms\app\Views\stokView\edit.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 38)
+#1 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\Common.php(1271): CodeIgniter\View\View->render('stokView/edit', Array, true)
+#4 C:\xampp\htdocs\wms\app\Controllers\Stok.php(78): view('stokView/edit', Array)
+#5 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Stok->edit('dist', 'img', 'user3-128x128.j...')
+#6 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+#7 C:\xampp\htdocs\wms\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\wms\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
